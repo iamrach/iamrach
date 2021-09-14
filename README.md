@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raquel Carvalho de Arruda, but you can call me Rach.
 - 👀 I’m interested in learning front end and back end programming languages.
-- 🌱 I’m currently learning React.JS.
-- 💞️ I’m looking to collaborate on any front end project to get better at website development. 
-- 📫 How to reach me: You can follow me on Instagram at rmerriwick
+- 🌱 I’m currently learning more about offensive cyber security.
+- 💞️ I’m looking to learn more about ethical hacking. 
+- 📫 How to reach me: You can follow me on Instagram at _iamrachh
